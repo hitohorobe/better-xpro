@@ -1,6 +1,8 @@
 // ==UserScript==
-// @name            "ポストをクリア"ボタンを非表示
+// @name            「ポストをクリア」ボタンを非表示
 // @namespace       https://github.com/hitohorobe/better-xpro
+// @updateURL       https://github.com/hitohorobe/better-xpro/raw/refs/heads/main/src/xpro-hide-clear-button.user.js
+// @downloadURL     https://github.com/hitohorobe/better-xpro/raw/refs/heads/main/src/xpro-hide-clear-button.user.js
 // @version         1.0.0
 // @description     Hide button with aria-label="ポストをクリア" on pro.x.com decks pages
 // @author          hitohorobe

@@ -1,6 +1,8 @@
 // ==UserScript==
-// @name            "ポストを作成"カラムを開いたままにする
+// @name            「ポストを作成」カラムを開いたままにする
 // @namespace       https://github.com/hitohorobe/better-xpro
+// @updateURL       https://github.com/hitohorobe/better-xpro/raw/refs/heads/main/src/xpro-stay-open-post-column.user.js
+// @downloadURL     https://github.com/hitohorobe/better-xpro/raw/refs/heads/main/src/xpro-stay-open-post-column.user.js
 // @version         1.0.0
 // @description     「ポストを作成」ボタンを自動クリック（無効な場合は除外）
 // @author          hitohorobe
