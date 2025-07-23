@@ -15,6 +15,6 @@ X ProをOldTweetdeckの使用感に近づけるためのUserScript集です
 
 2 次のリンクからスクリプトをインストール
 
-- [投稿カラムを開いたままにする](/src/xpro-stay-open-post-column.user.js)
-- [クリアボタンを非表示にする](/src/xpro-hide-clear-button.user.js)
+- [投稿カラムを開いたままにする](https://github.com/hitohorobe/better-xpro/raw/refs/heads/main/src/xpro-stay-open-post-column.user.js)
+- [クリアボタンを非表示にする](https://github.com/hitohorobe/better-xpro/raw/refs/heads/main/src/xpro-hide-clear-button.user.js)
 
